@@ -19,6 +19,10 @@ A collection of Python learning exercises and examples.
 | File | Description |
 | --- | --- |
 | [`Campusx/lesson1.py`](Campusx/lesson1.py) | CampusX lesson 1 exercises and examples |
+| [`Campusx/decorators_example.py`](Campusx/decorators_example.py) | Examples of Python decorators |
+| [`Campusx/file_handling/filehandling_basics.py`](Campusx/file_handling/filehandling_basics.py) | Basic file handling examples |
+| [`Campusx/file_handling/binaryfiles/imagehandling.py`](Campusx/file_handling/binaryfiles/imagehandling.py) | Examples for handling image files |
+| [`Campusx/recursion/recursive.py`](Campusx/recursion/recursive.py) | Recursion examples |
 
 ## Running a file
 
